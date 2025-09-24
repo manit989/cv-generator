@@ -1,0 +1,36 @@
+.mainContainer {
+  display: flex;
+  flex-direction: row;
+  background-color: #eff1f5;
+  height: 100vh;
+  margin-left: 10%;
+  margin-right: 10%;
+  gap: 5%;
+}
+
+.formContainer {
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  gap: 4%;
+  padding: 3%;
+  width: 45%;
+}
+
+
+.aboutForm {
+  background-color: #ccd0da;
+  height: 50%;
+  border-radius: 4%;
+}
+
+.experienceForm {
+  background-color: #ccd0da;
+  height: 50%;
+  border-radius: 4%;
+}
+
+.resume {
+  background-color: black;
+  width: 60%;
+}
